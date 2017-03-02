@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: list1
+# key: list1
+# binding: direct-keybinding
+# --
+my @$1 = ($2);

@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: meta_robo
+# key: meta_robo
+# binding: direct-keybinding
+# --
+<meta name="ROBOTS" content="$1">

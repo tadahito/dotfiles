@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: listm
+# key: listm
+# binding: direct-keybinding
+# --
+[$1,$2].map(function($3){ return $3; });

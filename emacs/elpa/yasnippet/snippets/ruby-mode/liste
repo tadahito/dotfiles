@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: liste
+# key: liste
+# binding: direct-keybinding
+# --
+%w[$1].each{|$2| $3}

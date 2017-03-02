@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: 1970msec
+# key: 1970msec
+# binding: direct-keybinding
+# --
+var $1 = new Date();
+var $2 = $1.getTime();

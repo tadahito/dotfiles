@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: font
+# key: font
+# binding: direct-keybinding
+# --
+<font size="$1" color="$2">$3</font>

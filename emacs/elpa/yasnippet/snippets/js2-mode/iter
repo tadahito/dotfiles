@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: iter
+# key: iter
+# binding: direct-keybinding
+# --
+var $1 = Iterator({ $2 : $3, $4 : $5 });
+$1.next();

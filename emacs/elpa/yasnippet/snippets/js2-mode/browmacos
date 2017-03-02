@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: browmacos
+# key: browmacos
+# binding: direct-keybinding
+# --
+navigator.userAgent.indexOf("Macintosh") > -1

@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: meta_reload
+# key: meta_reload
+# binding: direct-keybinding
+# --
+<meta http-equiv="Refresh" content="$1">

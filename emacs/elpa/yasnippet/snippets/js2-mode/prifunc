@@ -1,0 +1,11 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: prifunc
+# key: prifunc
+# binding: direct-keybinding
+# --
+function $1($2){
+    function $3($5){
+        return $5;
+    };
+    return $3($4);
+}

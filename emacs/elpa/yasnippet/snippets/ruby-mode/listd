@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: listd
+# key: listd
+# binding: direct-keybinding
+# --
+%w[$1].delete($2){|$3| $4}

@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: meta_gene
+# key: meta_gene
+# binding: direct-keybinding
+# --
+<meta name="generator" content="$1">

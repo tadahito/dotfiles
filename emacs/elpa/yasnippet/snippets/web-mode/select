@@ -1,0 +1,10 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: select
+# key: select
+# binding: direct-keybinding
+# --
+<select name="$1" size="$2" multiple>
+ <option value="$3" selected>$4</option>
+ <option value="$5">$6</option>
+ <option value="$7">$8</option>
+</select>

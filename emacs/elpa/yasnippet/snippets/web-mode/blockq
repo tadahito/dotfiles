@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: blockq
+# key: blockq
+# binding: direct-keybinding
+# --
+<blockquote>
+$1
+</blockquote>

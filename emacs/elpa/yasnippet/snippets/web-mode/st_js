@@ -1,0 +1,10 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: st_js
+# key: st_js
+# binding: direct-keybinding
+# --
+<script type="text/javascript">
+<!--
+$1
+// -->
+</script>

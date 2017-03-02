@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: lists
+# key: lists
+# binding: direct-keybinding
+# --
+%w[$1].select{|$2| $3}

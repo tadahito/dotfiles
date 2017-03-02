@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: listp
+# key: listp
+# binding: direct-keybinding
+# --
+($1).partition{|$2| $3}

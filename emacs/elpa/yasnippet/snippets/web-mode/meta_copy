@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: meta_copy
+# key: meta_copy
+# binding: direct-keybinding
+# --
+<meta name="copyright" content="Copyright &copy; $1. All Rights Reserved.">

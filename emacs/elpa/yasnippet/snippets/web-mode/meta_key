@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: meta_key
+# key: meta_key
+# binding: direct-keybinding
+# --
+<meta name="keywords" content="$1">

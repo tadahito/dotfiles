@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: nnum
+# key: nnum
+# binding: direct-keybinding
+# --
+var $1 = new Number($2);

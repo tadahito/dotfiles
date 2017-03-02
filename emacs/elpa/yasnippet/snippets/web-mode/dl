@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: dl
+# key: dl
+# binding: direct-keybinding
+# --
+<dl>
+ <dt>$1</dt>
+ <dd>$2</dd>
+</dl>

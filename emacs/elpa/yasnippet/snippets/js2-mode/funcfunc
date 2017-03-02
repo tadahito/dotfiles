@@ -1,0 +1,14 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: funcfunc
+# key: funcfunc
+# binding: direct-keybinding
+# --
+function $2(){
+    $3
+    return function(){
+        $4;
+    }
+}
+var $1 = $2();
+$1();
+$2()()

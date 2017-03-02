@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: browff
+# key: browff
+# binding: direct-keybinding
+# --
+navigator.userAgent.indexOf("Firefox") > -1

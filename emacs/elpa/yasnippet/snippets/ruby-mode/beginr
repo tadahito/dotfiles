@@ -1,0 +1,13 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: beginr
+# key: begins
+# binding: direct-keybinding
+# --
+begin
+  $1
+rescue $2 => err
+  p err
+  p $!
+  p $@[0]
+  p $@[1]
+end

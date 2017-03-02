@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: texta
+# key: texta
+# binding: direct-keybinding
+# --
+<textarea name="$1" cols="$2" rows="$3" disabled>$4</textarea>

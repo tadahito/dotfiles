@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: arr_ne
+# key: arr_ne
+# binding: direct-keybinding
+# --
+Array.new($1){|$2| $3}

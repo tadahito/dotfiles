@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: browie
+# key: browie
+# binding: direct-keybinding
+# --
+window.ActiveXObject

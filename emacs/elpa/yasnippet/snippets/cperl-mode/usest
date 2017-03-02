@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: usest
+# key: usest
+# binding: direct-keybinding
+# --
+use strict;

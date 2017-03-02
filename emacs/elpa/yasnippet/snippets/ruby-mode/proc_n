@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: proc_n
+# key: proc_n
+# binding: direct-keybinding
+# --
+Proc.new{ |$1| $2 "#{$3}" }

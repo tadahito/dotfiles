@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: hash1
+# key: hash1
+# binding: direct-keybinding
+# --
+{ $1 => $2 }

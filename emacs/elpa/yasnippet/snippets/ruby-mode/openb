@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: openb
+# key: openb
+# binding: direct-keybinding
+# --
+open("$1"){|$2| $3.readlines}

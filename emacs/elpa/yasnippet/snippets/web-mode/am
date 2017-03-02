@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: am
+# key: am
+# binding: direct-keybinding
+# --
+<a href="mailto:$1@$2">$3</a>

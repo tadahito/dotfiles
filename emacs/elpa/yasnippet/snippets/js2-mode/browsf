@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: browsf
+# key: browsf
+# binding: direct-keybinding
+# --
+navigator.userAgent.indexOf("Safari") > -1

@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: browgeko
+# key: browgeko
+# binding: direct-keybinding
+# --
+navigator.userAgent.indexOf("Gecko") > -1

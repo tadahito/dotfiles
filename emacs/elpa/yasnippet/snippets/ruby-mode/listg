@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: listg
+# key: listg
+# binding: direct-keybinding
+# --
+%w[$1].grep($2){|$3| $4}

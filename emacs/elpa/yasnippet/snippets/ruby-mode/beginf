@@ -1,0 +1,27 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: beginf
+# key: beginf
+# binding: direct-keybinding
+# --
+  value = begin
+            case $1
+            when $2
+            when $3
+            when $4
+            when $5
+            end
+            :begin
+          rescue => e #軽い例外
+            $6
+            :rescue
+          rescue $7 => e
+            $8
+            $9
+          rescue Exception
+            $10
+            $11
+          else # 例外が起きなかった場合
+            $12
+          ensure # 必ず実行する
+            $13
+          end

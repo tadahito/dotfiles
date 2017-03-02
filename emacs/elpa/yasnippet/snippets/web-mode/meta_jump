@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: meta_jump
+# key: meta_jump
+# binding: direct-keybinding
+# --
+<meta http-equiv="Refresh" content="$1;URL=$2">

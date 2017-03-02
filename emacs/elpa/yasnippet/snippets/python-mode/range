@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: range
+# key: range
+# binding: direct-keybinding
+# --
+range($1,$2,$3)

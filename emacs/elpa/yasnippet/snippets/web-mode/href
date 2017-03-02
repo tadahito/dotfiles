@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: href
+# key: href
+# binding: direct-keybinding
+# --
+<a href=""></a>

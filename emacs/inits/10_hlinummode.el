@@ -1,0 +1,2 @@
+(require 'hlinum)
+(hlinum-activate)

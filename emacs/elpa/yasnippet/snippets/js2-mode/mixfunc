@@ -1,0 +1,16 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: mixfunc
+# key: mixfunc
+# binding: direct-keybinding
+# --
+var $1 = function(){
+    function $2(){
+        $3;
+    }
+    function $4(){
+        $5;
+    }
+    $2();
+    return $4;
+}();
+

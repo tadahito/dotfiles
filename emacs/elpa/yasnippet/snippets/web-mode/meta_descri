@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: meta_descri
+# key: meta_descri
+# binding: direct-keybinding
+# --
+<meta name="description" content="$1">

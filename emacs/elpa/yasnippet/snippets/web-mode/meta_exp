@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: meta_exp
+# key: meta_exp
+# binding: direct-keybinding
+# --
+<meta http-equiv="Expires" content="$1">

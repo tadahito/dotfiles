@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: narr
+# key: narr
+# binding: direct-keybinding
+# --
+var $1 = new Array();

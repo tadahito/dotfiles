@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: meta_date
+# key: meta_date
+# binding: direct-keybinding
+# --
+<meta name="date" content="$1">

@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: em
+# key: em
+# binding: direct-keybinding
+# --
+<em>$1</em>

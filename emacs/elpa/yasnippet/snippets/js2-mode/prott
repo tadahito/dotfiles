@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: prott
+# key: prott
+# binding: direct-keybinding
+# --
+var $1 = function($2){
+    this.$3 = $2;
+}
+$1.prototype.$4 = $5;

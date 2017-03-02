@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: link_favi
+# key: link_favi
+# binding: direct-keybinding
+# --
+<link rel="shortcut icon" href="$1" type="$2">

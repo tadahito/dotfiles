@@ -1,0 +1,12 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: tcf
+# key: tcf
+# binding: direct-keybinding
+# --
+try{
+    $1
+}catch($2){
+    console.log($3 instanceof $4);
+}finaly{
+    $5
+}

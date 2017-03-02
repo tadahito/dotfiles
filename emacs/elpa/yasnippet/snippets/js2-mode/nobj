@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: nobj
+# key: nobj
+# binding: direct-keybinding
+# --
+var $1 = new Object();

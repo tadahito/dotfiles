@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: nbool
+# key: nbool
+# binding: direct-keybinding
+# --
+var $1 = new Boolean(true);

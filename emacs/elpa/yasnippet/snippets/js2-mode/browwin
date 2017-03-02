@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: browwin
+# key: browwin
+# binding: direct-keybinding
+# --
+navigator.userAgent.indexOf("Windows") > -1

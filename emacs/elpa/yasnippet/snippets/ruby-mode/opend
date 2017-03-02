@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: opend
+# key: opend
+# binding: direct-keybinding
+# --
+open("$1") do |$2|
+  $3
+end

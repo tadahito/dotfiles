@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name:hereeof 
+# key: hereeof
+# binding: direct-keybinding
+# --
+heredoc = <<EOF
+first
+second
+EOF

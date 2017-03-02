@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: nameuri
+# key: nameuri
+# binding: direct-keybinding
+# --
+document.documentElement.namespaceURI

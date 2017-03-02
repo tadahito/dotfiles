@@ -1,0 +1,14 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: callback
+# key: callback
+# binding: direct-keybinding
+# --
+function $1($2,$3){
+    return $2() + $3();
+}
+function $2(){
+    return $5;
+}
+function $3(){
+    return $7;
+}

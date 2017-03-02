@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: abbr
+# key: abbr
+# binding: direct-keybinding
+# --
+<abbr title="$1">$2</abbr>

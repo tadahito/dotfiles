@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: alertcon
+# key: alertcon
+# binding: direct-keybinding
+# --
+var $1 = confirm("$2");

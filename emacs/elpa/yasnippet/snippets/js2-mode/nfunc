@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: nfunc
+# key: nfunc
+# binding: direct-keybinding
+# --
+var $1 = new Function($2);

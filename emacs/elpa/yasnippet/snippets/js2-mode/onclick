@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: onclick
+# key: onclick
+# binding: direct-keybinding
+# --
+onClick="$1"

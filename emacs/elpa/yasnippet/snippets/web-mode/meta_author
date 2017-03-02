@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: meta_author
+# key: meta_author
+# binding: direct-keybinding
+# --
+<meta name="author" content="$1">

@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: button
+# key: button
+# binding: direct-keybinding
+# --
+<button type="$1" name="$2" value="$3">$4</button>

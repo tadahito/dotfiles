@@ -1,0 +1,13 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: case
+# key: case
+# binding: direct-keybinding
+# --
+case $1
+when $2
+  $3
+when $4
+  $5
+else
+  $6
+end

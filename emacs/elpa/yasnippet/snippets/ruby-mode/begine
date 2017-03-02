@@ -1,0 +1,10 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: begine
+# key: begine
+# binding: direct-keybinding
+# --
+begin
+  $1
+ensure
+  $2
+end

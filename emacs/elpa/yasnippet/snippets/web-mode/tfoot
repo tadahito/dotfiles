@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: tfoot
+# key: tfoot
+# binding: direct-keybinding
+# --
+<tfoot>
+$1
+</tfoot>

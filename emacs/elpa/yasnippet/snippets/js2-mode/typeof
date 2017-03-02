@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: typeof
+# key: typeof
+# binding: direct-keybinding
+# --
+typeof($1)

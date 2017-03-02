@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: nos
+# key: nos
+# binding: direct-keybinding
+# --
+<noscript>
+<p>$1</p>
+</noscript>

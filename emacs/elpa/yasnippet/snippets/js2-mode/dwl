@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: dwl
+# key: dwl
+# binding: direct-keybinding
+# --
+document.writeln($1);

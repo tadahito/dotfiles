@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: caption
+# key: caption
+# binding: direct-keybinding
+# --
+<caption>$1</caption>

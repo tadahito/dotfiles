@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: class_n
+# key: class_n
+# binding: direct-keybinding
+# --
+new_var = Class.new do
+  $1
+end

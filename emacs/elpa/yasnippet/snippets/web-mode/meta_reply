@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: meta_reply
+# key: meta_reply
+# binding: direct-keybinding
+# --
+<meta name="reply-to" content="$1&#64;$2">

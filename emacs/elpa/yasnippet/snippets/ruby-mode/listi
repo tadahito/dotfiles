@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: listi
+# key: listi
+# binding: direct-keybinding
+# --
+%w[$1].inject($2)

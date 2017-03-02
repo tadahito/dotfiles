@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: listc
+# key: listc
+# binding: direct-keybinding
+# --
+$1.count{|$2| $3}

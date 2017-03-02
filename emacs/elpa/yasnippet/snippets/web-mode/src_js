@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: src_js
+# key: src_js
+# binding: direct-keybinding
+# --
+<script type="text/javascript" src="$1"></script>

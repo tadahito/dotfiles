@@ -1,0 +1,10 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: selffunc
+# key: selffunc
+# binding: direct-keybinding
+# --
+(
+    function(){
+        $1;
+    }
+)()

@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: usewa
+# key: usewa
+# binding: direct-keybinding
+# --
+use warnings;

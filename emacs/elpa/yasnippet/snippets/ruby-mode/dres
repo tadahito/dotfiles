@@ -1,0 +1,11 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: dres
+# key: dres
+# binding: direct-keybinding
+# --
+def $1
+  $2
+rescue
+  $3
+end
+

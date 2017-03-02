@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: address
+# key: address
+# binding: direct-keybinding
+# --
+<address>$1</address>

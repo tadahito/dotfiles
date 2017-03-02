@@ -1,0 +1,11 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: getter
+# key: getter
+# binding: direct-keybinding
+# --
+var $1 = {
+    $2 : $3,
+    get $4(){
+        return this.$2;
+    }
+}

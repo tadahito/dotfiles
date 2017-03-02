@@ -1,0 +1,14 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: setter
+# key: setter
+# binding: direct-keybinding
+# --
+var $1 = {
+    $2 : $3,
+    set set_$2($4){
+        this.$2 = $4;
+    },
+    get get_$3(){
+        return this.$2;
+    }
+}

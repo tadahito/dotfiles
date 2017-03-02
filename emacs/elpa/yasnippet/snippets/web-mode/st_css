@@ -1,0 +1,10 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: st_css
+# key: st_css
+# binding: direct-keybinding
+# --
+<style type="text/css" media="$1">
+<!--
+$2
+-->
+</style>
