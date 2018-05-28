@@ -55,8 +55,8 @@
 (defun-eshell-cmdline "C-n"
   (let ((last-command 'eshell-previous-matching-input-from-input))
     (eshell-history-and-bol 'eshell-next-input)))
-(defadvice eshell-send-input (after history-position activate)
-  (setq eshell-history-index -1))
+;; (defadvice eshell-send-input (after history-position activate)
+;;   (setq eshell-history-index -1))
 (defun-eshell-cmdline "C-u"
   (eshell-bol)
   (if (= (point-max) (point))
