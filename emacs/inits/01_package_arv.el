@@ -2,6 +2,12 @@
 ;; emacs package管理
 ;; m-x list-package
 ;; --------------------------------------------------
+
+;; https://blog.vifortech.com/posts/emacs-tls-fix/
+;; => before install, brew install libressl
+(require 'gnutls)
+(add-to-list 'gnutls-trustfiles "/usr/local/etc/openssl/cert.pem")
+
 ;; ELPA/Marmalade/MELPAパッケージの設定
 (when (require 'package nil t)
   ;; (add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/"))
